@@ -1,2 +1,2 @@
-# pbhbot
-Messenger bot
+# pbh-bot
+Facebook Messenger bot
